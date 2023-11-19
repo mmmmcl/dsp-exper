@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdtw.a CMakeFiles/dtw.dir/src/dtw.cpp.o
+/usr/bin/ranlib libdtw.a

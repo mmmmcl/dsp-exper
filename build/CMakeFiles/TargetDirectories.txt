@@ -1,0 +1,9 @@
+/home/zxh/code.d/cmakeprojects/dsp_work/build/CMakeFiles/main.dir
+/home/zxh/code.d/cmakeprojects/dsp_work/build/CMakeFiles/edit_cache.dir
+/home/zxh/code.d/cmakeprojects/dsp_work/build/CMakeFiles/rebuild_cache.dir
+/home/zxh/code.d/cmakeprojects/dsp_work/build/dtw/CMakeFiles/dtw.dir
+/home/zxh/code.d/cmakeprojects/dsp_work/build/dtw/CMakeFiles/edit_cache.dir
+/home/zxh/code.d/cmakeprojects/dsp_work/build/dtw/CMakeFiles/rebuild_cache.dir
+/home/zxh/code.d/cmakeprojects/dsp_work/build/mel/CMakeFiles/mel.dir
+/home/zxh/code.d/cmakeprojects/dsp_work/build/mel/CMakeFiles/edit_cache.dir
+/home/zxh/code.d/cmakeprojects/dsp_work/build/mel/CMakeFiles/rebuild_cache.dir

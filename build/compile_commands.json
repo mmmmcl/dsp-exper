@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/zxh/code.d/cmakeprojects/dsp_work/build",
+  "command": "/usr/bin/g++  -I/home/zxh/code.d/cmakeprojects/dsp_work/dtw/include -I/home/zxh/code.d/cmakeprojects/dsp_work/mel/include -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/main.cpp.o -c /home/zxh/code.d/cmakeprojects/dsp_work/main.cpp",
+  "file": "/home/zxh/code.d/cmakeprojects/dsp_work/main.cpp"
+},
+{
+  "directory": "/home/zxh/code.d/cmakeprojects/dsp_work/build/dtw",
+  "command": "/usr/bin/g++  -I/usr/include/opencv4 -I/home/zxh/code.d/cmakeprojects/dsp_work/dtw/include -I/home/zxh/code.d/cmakeprojects/dsp_work/mel/include -g -o CMakeFiles/dtw.dir/src/dtw.cpp.o -c /home/zxh/code.d/cmakeprojects/dsp_work/dtw/src/dtw.cpp",
+  "file": "/home/zxh/code.d/cmakeprojects/dsp_work/dtw/src/dtw.cpp"
+},
+{
+  "directory": "/home/zxh/code.d/cmakeprojects/dsp_work/build/mel",
+  "command": "/usr/bin/g++  -I/usr/include/opencv4 -I/home/zxh/code.d/cmakeprojects/dsp_work/dtw/include -I/home/zxh/code.d/cmakeprojects/dsp_work/mel/include -g -o CMakeFiles/mel.dir/src/mel_filter.cpp.o -c /home/zxh/code.d/cmakeprojects/dsp_work/mel/src/mel_filter.cpp",
+  "file": "/home/zxh/code.d/cmakeprojects/dsp_work/mel/src/mel_filter.cpp"
+}
+]
